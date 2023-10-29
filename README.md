@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-## Introduction
+## About Me
 
 👨‍💼 I'm a data enthusiast with a background in engineering management, and I have a unique journey that brought me into the world of technology. Prior to my current path, I worked as an electrical technician in a port operating company in Nigeria, where I gained practical experience and developed a strong work ethic.
 
