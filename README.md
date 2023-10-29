@@ -31,7 +31,7 @@ Here are a few projects I'm proud of:
 - [Social Buzz](https://github.com/Ewoyi/Social_buzz.git): Utilized Tableau to craft a comprehensive dashboard, enabling a start up firm to make informed investment decisions. Employed Excel for data cleaning, ensuring data completeness and validity for accurate analysis. Provided valuable technical recommendations to guide the client in their investment choices based on the analysis.
 ## Contact Me
 - 📧 Email: ewoyidan@gmail.com
-- 🌐 LinkedIn: [Ewoyi Itodo](https://www.linkedin.com/in/yourname)
+- 🌐 LinkedIn: [Ewoyi Itodo](https://www.linkedin.com/in/ewoyi-itodo-37b921175)
 
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and get in touch.
