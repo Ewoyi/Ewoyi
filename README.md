@@ -26,7 +26,7 @@ Let's explore the digital future together!
 
 ## Projects
 Here are a few projects I'm proud of:
-- [Covid 19 Research](https://github.com/Ewoyi/PortfolioProject/blob/main/COVID_Portfolio_Project): Leveraged SQL for in-depth exploratory analysis of Covid-19 datasets, unveiling key insights. Utilized Tableau for impactful data visualization, presenting trends in infection cases from 2020 - 2021. Determined total global cases, deaths, and death percentage, and employed mapping for clear analysis communication.
+- [Covid 19 Research](https://github.com/Ewoyi/COVID-19): Leveraged SQL for in-depth exploratory analysis of Covid-19 datasets, unveiling key insights. Utilized Tableau for impactful data visualization, presenting trends in infection cases from 2020 - 2021. Determined total global cases, deaths, and death percentage, and employed mapping for clear analysis communication.
 - [Automative Crypto Website](https://github.com/Ewoyi/PortfolioProject/blob/main/Python%20Projects/Automating_Crypto_Website.ipynb): Utilized Python along  with Seabon, Pandas, Matplotlib to conduct exploratory analysis from an automotive crypto website. Leveraged Json and Requests to retrieve and analyze data. Employed web scraping, data manipulation, and visualization techniques to extract valuable insights for informed decision making.
 - [Social Buzz](https://github.com/Ewoyi/Social_buzz.git): Utilized Tableau to craft a comprehensive dashboard, enabling a start up firm to make informed investment decisions. Employed Excel for data cleaning, ensuring data completeness and validity for accurate analysis. Provided valuable technical recommendations to guide the client in their investment choices based on the analysis.
 ## Contact Me
